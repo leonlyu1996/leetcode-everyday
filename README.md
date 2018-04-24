@@ -1,12 +1,12 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-04-24 11:19:00
+Update time:  2018-04-24 18:32:26
 
-I have solved **26   /   738** problems
+I have solved **28   /   738** problems
 while there are **133** problems still locked.
 
-Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
+Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
 
-If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
+If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md).
 
 (Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
 
@@ -386,7 +386,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |389|[find-the-difference](https://leetcode.com/problems/find-the-difference)|||Easy|
 |390|[elimination-game](https://leetcode.com/problems/elimination-game)|||Medium|
 |391|[perfect-rectangle](https://leetcode.com/problems/perfect-rectangle)|||Hard|
-|392|[is-subsequence](https://leetcode.com/problems/is-subsequence)|||Medium|
+|392|[is-subsequence](https://leetcode.com/problems/is-subsequence)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/392-is-subsequence/is-subsequence.java)||Medium|
 |393|[utf-8-validation](https://leetcode.com/problems/utf-8-validation)|||Medium|
 |394|[decode-string](https://leetcode.com/problems/decode-string)|||Medium|
 |395|[longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)|||Medium|
@@ -670,7 +670,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |741|[cherry-pickup](https://leetcode.com/problems/cherry-pickup)||[:memo:](https://leetcode.com/articles/cherry-pickup/)|Hard|
 |743|[closest-leaf-in-a-binary-tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/closest-leaf-in-binary-tree/)|Medium|
 |744|[network-delay-time](https://leetcode.com/problems/network-delay-time)||[:memo:](https://leetcode.com/articles/network-delay-time/)|Medium|
-|745|[find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)||[:memo:](https://leetcode.com/articles/find-smallest-letter-greater-than-target/)|Easy|
+|745|[find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/745-find-smallest-letter-greater-than-target/find-smallest-letter-greater-than-target.java)|[:memo:](https://leetcode.com/articles/find-smallest-letter-greater-than-target/)|Easy|
 |746|[prefix-and-suffix-search](https://leetcode.com/problems/prefix-and-suffix-search)||[:memo:](https://leetcode.com/articles/prefix-and-suffix-search/)|Hard|
 |747|[min-cost-climbing-stairs](https://leetcode.com/problems/min-cost-climbing-stairs)||[:memo:](https://leetcode.com/articles/min-cost-climbing-stairs/)|Easy|
 |748|[largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)||[:memo:](https://leetcode.com/articles/largest-number-at-least-twice-of-others/)|Easy|
