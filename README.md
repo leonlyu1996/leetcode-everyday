@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-04-24 18:32:26
+Update time:  2018-04-25 18:49:32
 
-I have solved **28   /   738** problems
+I have solved **30   /   738** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -164,7 +164,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|||Medium|
 |151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|||Medium|
 |152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|||Medium|
-|153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|||Medium|
+|153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java)||Medium|
 |154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|||Hard|
 |155|[min-stack](https://leetcode.com/problems/min-stack)|||Easy|
 |156|[binary-tree-upside-down](https://leetcode.com/problems/binary-tree-upside-down)|:lock:||Medium|
@@ -272,7 +272,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |275|[h-index-ii](https://leetcode.com/problems/h-index-ii)|||Medium|
 |276|[paint-fence](https://leetcode.com/problems/paint-fence)|:lock:||Easy|
 |277|[find-the-celebrity](https://leetcode.com/problems/find-the-celebrity)|:lock:||Medium|
-|278|[first-bad-version](https://leetcode.com/problems/first-bad-version)||[:memo:](https://leetcode.com/articles/first-bad-version/)|Easy|
+|278|[first-bad-version](https://leetcode.com/problems/first-bad-version)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/278-first-bad-version/first-bad-version.java)|[:memo:](https://leetcode.com/articles/first-bad-version/)|Easy|
 |279|[perfect-squares](https://leetcode.com/problems/perfect-squares)|||Medium|
 |280|[wiggle-sort](https://leetcode.com/problems/wiggle-sort)|:lock:|[:memo:](https://leetcode.com/articles/wiggle-sort/)|Medium|
 |281|[zigzag-iterator](https://leetcode.com/problems/zigzag-iterator)|:lock:||Medium|
