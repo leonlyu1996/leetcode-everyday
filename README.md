@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-04-26 19:31:05
+Update time:  2018-04-28 19:47:06
 
-I have solved **31   /   738** problems
+I have solved **33   /   738** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -339,7 +339,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |342|[power-of-four](https://leetcode.com/problems/power-of-four)|||Easy|
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
 |344|[reverse-string](https://leetcode.com/problems/reverse-string)|||Easy|
-|345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|||Easy|
+|345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/345-reverse-vowels-of-a-string/reverse-vowels-of-a-string.java)||Easy|
 |346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:||Easy|
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)|||Medium|
 |348|[design-tic-tac-toe](https://leetcode.com/problems/design-tic-tac-toe)|:lock:||Medium|
@@ -617,7 +617,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |677|[map-sum-pairs](https://leetcode.com/problems/map-sum-pairs)||[:memo:](https://leetcode.com/articles/map-sum-pairs/)|Medium|
 |678|[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string)||[:memo:](https://leetcode.com/articles/valid-parenthesis-string/)|Medium|
 |679|[24-game](https://leetcode.com/problems/24-game)||[:memo:](https://leetcode.com/articles/24-game/)|Hard|
-|680|[valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii)||[:memo:](https://leetcode.com/articles/valid-palindrome-ii/)|Easy|
+|680|[valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/680-valid-palindrome-ii/valid-palindrome-ii.java)|[:memo:](https://leetcode.com/articles/valid-palindrome-ii/)|Easy|
 |681|[next-closest-time](https://leetcode.com/problems/next-closest-time)|:lock:|[:memo:](https://leetcode.com/articles/next-closest-time/)|Medium|
 |682|[baseball-game](https://leetcode.com/problems/baseball-game)||[:memo:](https://leetcode.com/articles/baseball-game/)|Easy|
 |683|[k-empty-slots](https://leetcode.com/problems/k-empty-slots)|:lock:|[:memo:](https://leetcode.com/articles/k-empty-slots/)|Hard|
