@@ -14,8 +14,6 @@
 // Input: [2,2,1,1,1,2,2]
 // Output: 2
 //
-// Credits:
-// Special thanks to @ts for adding this problem and creating all test cases.
 //
 
 
