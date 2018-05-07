@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-05-06 17:40:23
+Update time:  2018-05-07 19:11:44
 
-I have solved **39   /   746** problems
+I have solved **40   /   746** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -86,7 +86,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)|||Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|||Medium|
 |74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|||Medium|
-|75|[sort-colors](https://leetcode.com/problems/sort-colors)|||Medium|
+|75|[sort-colors](https://leetcode.com/problems/sort-colors)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/075-sort-colors/sort-colors.java)||Medium|
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)|||Hard|
 |77|[combinations](https://leetcode.com/problems/combinations)|||Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)|||Medium|
