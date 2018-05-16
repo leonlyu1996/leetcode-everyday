@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-05-11 18:55:14
+Update time:  2018-05-16 18:57:37
 
-I have solved **49   /   746** problems
+I have solved **51   /   750** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -237,7 +237,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |239|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum)|||Hard|
 |240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)||[:memo:](https://leetcode.com/articles/search-a-2d-matrix-ii/)|Medium|
 |241|[different-ways-to-add-parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)|||Medium|
-|242|[valid-anagram](https://leetcode.com/problems/valid-anagram)||[:memo:](https://leetcode.com/articles/valid-anagram/)|Easy|
+|242|[valid-anagram](https://leetcode.com/problems/valid-anagram)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/242-valid-anagram/valid-anagram.java)|[:memo:](https://leetcode.com/articles/valid-anagram/)|Easy|
 |243|[shortest-word-distance](https://leetcode.com/problems/shortest-word-distance)|:lock:|[:memo:](https://leetcode.com/articles/shortest-word-distance/)|Easy|
 |244|[shortest-word-distance-ii](https://leetcode.com/problems/shortest-word-distance-ii)|:lock:||Medium|
 |245|[shortest-word-distance-iii](https://leetcode.com/problems/shortest-word-distance-iii)|:lock:||Medium|
@@ -551,7 +551,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |591|[tag-validator](https://leetcode.com/problems/tag-validator)||[:memo:](https://leetcode.com/articles/tag-validator/)|Hard|
 |592|[fraction-addition-and-subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)||[:memo:](https://leetcode.com/articles/kill-process-3/)|Medium|
 |593|[valid-square](https://leetcode.com/problems/valid-square)||[:memo:](https://leetcode.com/articles/valid-square/)|Medium|
-|594|[longest-harmonious-subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)||[:memo:](https://leetcode.com/articles/longest-harmonious-subsequence/)|Easy|
+|594|[longest-harmonious-subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/594-longest-harmonious-subsequence/longest-harmonious-subsequence.java)|[:memo:](https://leetcode.com/articles/longest-harmonious-subsequence/)|Easy|
 |598|[range-addition-ii](https://leetcode.com/problems/range-addition-ii)||[:memo:](https://leetcode.com/articles/range-addition-ii/)|Easy|
 |599|[minimum-index-sum-of-two-lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)||[:memo:](https://leetcode.com/articles/minimum-index-sum-of-two-lists/)|Easy|
 |600|[non-negative-integers-without-consecutive-ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones)||[:memo:](https://leetcode.com/articles/non-negative-integers-without-consecutive-ones/)|Hard|
@@ -758,3 +758,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |856|[consecutive-numbers-sum](https://leetcode.com/problems/consecutive-numbers-sum)||[:memo:](https://leetcode.com/articles/consecutive-numbers-sum/)|Medium|
 |857|[positions-of-large-groups](https://leetcode.com/problems/positions-of-large-groups)||[:memo:](https://leetcode.com/articles/positions-of-large-groups/)|Easy|
 |858|[masking-personal-information](https://leetcode.com/problems/masking-personal-information)||[:memo:](https://leetcode.com/articles/masking-personal-information/)|Medium|
+|861|[flipping-an-image](https://leetcode.com/problems/flipping-an-image)||[:memo:](https://leetcode.com/articles/flipping-an-image/)|Easy|
+|862|[find-and-replace-in-string](https://leetcode.com/problems/find-and-replace-in-string)||[:memo:](https://leetcode.com/articles/find-and-replace-in-string/)|Medium|
+|863|[sum-of-distances-in-tree](https://leetcode.com/problems/sum-of-distances-in-tree)||[:memo:](https://leetcode.com/articles/sum-of-distances-in-tree/)|Hard|
+|864|[image-overlap](https://leetcode.com/problems/image-overlap)||[:memo:](https://leetcode.com/articles/image-overlap/)|Medium|
