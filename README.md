@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-05-29 19:10:19
+Update time:  2018-05-30 20:00:25
 
-I have solved **63   /   758** problems
+I have solved **64   /   758** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -17,7 +17,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.java)|[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/005-longest-palindromic-substring/longest-palindromic-substring.java)|[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
-|6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|||Medium|
+|6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/006-zigzag-conversion/zigzag-conversion.java)||Medium|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/007-reverse-integer/reverse-integer.java)||Easy|
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/009-palindrome-number/palindrome-number.java)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
