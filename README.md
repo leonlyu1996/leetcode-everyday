@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-06-01 09:34:01
+Update time:  2018-06-01 19:53:45
 
-I have solved **65   /   758** problems
+I have solved **66   /   758** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -19,7 +19,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/005-longest-palindromic-substring/longest-palindromic-substring.java)|[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/006-zigzag-conversion/zigzag-conversion.java)||Medium|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/007-reverse-integer/reverse-integer.java)||Easy|
-|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
+|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/008-string-to-integer-atoi/string-to-integer-atoi.java)||Medium|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/009-palindrome-number/palindrome-number.java)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
