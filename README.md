@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-06-04 19:57:00
+Update time:  2018-06-05 18:58:14
 
-I have solved **67   /   762** problems
+I have solved **68   /   762** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -25,7 +25,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/012-integer-to-roman/integer-to-roman.java)||Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/013-roman-to-integer/roman-to-integer.java)||Easy|
-|14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)||[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
+|14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/014-longest-common-prefix/longest-common-prefix.java)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)|||Medium|
 |16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|||Medium|

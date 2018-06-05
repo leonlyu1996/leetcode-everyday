@@ -7,14 +7,13 @@
 // Example:
 //
 //
-// Given n = 5
+// Given n = 5, and version = 4 is the first bad version.
 //
 // call isBadVersion(3) -> false
 // call isBadVersion(5) -> true
 // call isBadVersion(4) -> true
 //
 // Then 4 is the first bad version. 
-//
 //
 
 
