@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-06-05 18:58:14
+Update time:  2018-06-06 20:19:45
 
-I have solved **68   /   762** problems
+I have solved **69   /   762** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -22,7 +22,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/008-string-to-integer-atoi/string-to-integer-atoi.java)||Medium|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/009-palindrome-number/palindrome-number.java)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
-|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
+|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/011-container-with-most-water/container-with-most-water.java)|[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/012-integer-to-roman/integer-to-roman.java)||Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/013-roman-to-integer/roman-to-integer.java)||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/014-longest-common-prefix/longest-common-prefix.java)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
@@ -771,6 +771,6 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |872|[split-array-into-fibonacci-sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence)||[:memo:](https://leetcode.com/articles/split-array-into-fibonacci-sequence/)|Medium|
 |873|[guess-the-word](https://leetcode.com/problems/guess-the-word)||[:memo:](https://leetcode.com/articles/guess-the-word/)|Hard|
 |874|[backspace-string-compare](https://leetcode.com/problems/backspace-string-compare)||[:memo:](https://leetcode.com/articles/backspace-string-compare/)|Easy|
-|875|[longest-mountain-in-array](https://leetcode.com/problems/longest-mountain-in-array)|||Medium|
-|876|[hand-of-straights](https://leetcode.com/problems/hand-of-straights)|||Medium|
+|875|[longest-mountain-in-array](https://leetcode.com/problems/longest-mountain-in-array)||[:memo:](https://leetcode.com/articles/longest-mountain-in-array/)|Medium|
+|876|[hand-of-straights](https://leetcode.com/problems/hand-of-straights)||[:memo:](https://leetcode.com/articles/hand-of-straights/)|Medium|
 |877|[shortest-path-visiting-all-nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)||[:memo:](https://leetcode.com/articles/shortest-path-visiting-all-nodes/)|Hard|
