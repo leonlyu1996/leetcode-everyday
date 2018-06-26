@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-06-25 19:08:45
+Update time:  2018-06-26 19:27:17
 
-I have solved **77   /   774** problems
+I have solved **79   /   774** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -69,7 +69,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |55|[jump-game](https://leetcode.com/problems/jump-game)||[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)||[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)|||Hard|
-|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|||Easy|
+|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/058-length-of-last-word/length-of-last-word.java)||Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|||Medium|
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)|||Medium|
@@ -77,7 +77,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|||Medium|
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
-|66|[plus-one](https://leetcode.com/problems/plus-one)|||Easy|
+|66|[plus-one](https://leetcode.com/problems/plus-one)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/066-plus-one/plus-one.java)||Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/069-sqrtx/sqrtx.java)||Easy|
