@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-06-26 19:27:17
+Update time:  2018-06-27 20:09:43
 
-I have solved **79   /   774** problems
+I have solved **80   /   774** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -78,7 +78,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/066-plus-one/plus-one.java)||Easy|
-|67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
+|67|[add-binary](https://leetcode.com/problems/add-binary)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/067-add-binary/add-binary.java)||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/069-sqrtx/sqrtx.java)||Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/070-climbing-stairs/climbing-stairs.java)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
