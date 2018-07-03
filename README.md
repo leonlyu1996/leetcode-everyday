@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-07-02 19:46:07
+Update time:  2018-07-03 19:58:53
 
-I have solved **83   /   778** problems
+I have solved **84   /   779** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -129,7 +129,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|||Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|||Medium|
-|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
+|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/118-pascals-triangle/pascals-triangle.java)|[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
@@ -790,3 +790,4 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |891|[score-after-flipping-matrix](https://leetcode.com/problems/score-after-flipping-matrix)||[:memo:](https://leetcode.com/articles/score-after-flipping-matrix/)|Medium|
 |892|[shortest-subarray-with-sum-at-least-k](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k)||[:memo:](https://leetcode.com/articles/shortest-subarray-with-sum-atleast-k/)|Hard|
 |893|[all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)||[:memo:](https://leetcode.com/articles/all-nodes-distance-k-in-binary-tree/)|Medium|
+|894|[random-pick-with-blacklist](https://leetcode.com/problems/random-pick-with-blacklist)|||Hard|
