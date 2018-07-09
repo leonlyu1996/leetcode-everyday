@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-07-06 19:04:54
+Update time:  2018-07-09 20:31:06
 
-I have solved **86   /   779** problems
+I have solved **90   /   783** problems
 while there are **133** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -45,7 +45,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |31|[next-permutation](https://leetcode.com/problems/next-permutation)||[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
 |32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
 |33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|||Medium|
-|34|[search-for-a-range](https://leetcode.com/problems/search-for-a-range)||[:memo:](https://leetcode.com/articles/search-for-a-range/)|Medium|
+|34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)||[:memo:](https://leetcode.com/articles/find-first-and-last-position-element-sorted-array/)|Medium|
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/035-search-insert-position/search-insert-position.java)||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|||Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)|||Hard|
@@ -136,7 +136,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.java)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Easy|
 |123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|||Hard|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|||Hard|
-|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|||Easy|
+|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/125-valid-palindrome/valid-palindrome.java)||Easy|
 |126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|||Hard|
 |127|[word-ladder](https://leetcode.com/problems/word-ladder)|||Medium|
 |128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)||[:memo:](https://leetcode.com/articles/longest-consecutive-sequence/)|Hard|
@@ -179,11 +179,11 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers)|||Medium|
 |166|[fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)||[:memo:](https://leetcode.com/articles/fraction-to-recurring-decimal/)|Medium|
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.java)|[:memo:](https://leetcode.com/articles/two-sum-ii-input-array-is-sorted/)|Easy|
-|168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title)|||Easy|
+|168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/168-excel-sheet-column-title/excel-sheet-column-title.java)||Easy|
 |169|[majority-element](https://leetcode.com/problems/majority-element)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/169-majority-element/majority-element.java)|[:memo:](https://leetcode.com/articles/majority-element/)|Easy|
 |170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|:lock:||Easy|
-|171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|||Easy|
-|172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|||Easy|
+|171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/171-excel-sheet-column-number/excel-sheet-column-number.java)||Easy|
+|172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/172-factorial-trailing-zeroes/factorial-trailing-zeroes.java)||Easy|
 |173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)|||Medium|
 |174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|||Hard|
 |179|[largest-number](https://leetcode.com/problems/largest-number)||[:memo:](https://leetcode.com/articles/largest-number/)|Medium|
@@ -791,3 +791,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |892|[shortest-subarray-with-sum-at-least-k](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k)||[:memo:](https://leetcode.com/articles/shortest-subarray-with-sum-atleast-k/)|Hard|
 |893|[all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)||[:memo:](https://leetcode.com/articles/all-nodes-distance-k-in-binary-tree/)|Medium|
 |894|[random-pick-with-blacklist](https://leetcode.com/problems/random-pick-with-blacklist)||[:memo:](https://leetcode.com/articles/random-pick-with-blacklist/)|Hard|
+|895|[shortest-path-to-get-all-keys](https://leetcode.com/problems/shortest-path-to-get-all-keys)||[:memo:](https://leetcode.com/articles/shortest-path-to-get-all-keys/)|Hard|
+|896|[smallest-subtree-with-all-the-deepest-nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes)||[:memo:](https://leetcode.com/articles/smallest-subtree-with-all-the-deepest-nodes/)|Medium|
+|897|[prime-palindrome](https://leetcode.com/problems/prime-palindrome)||[:memo:](https://leetcode.com/articles/prime-palindrome/)|Medium|
+|898|[transpose-matrix](https://leetcode.com/problems/transpose-matrix)||[:memo:](https://leetcode.com/articles/transpose-matrix/)|Easy|
