@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-07-13 20:31:13
+Update time:  2018-07-17 20:56:02
 
-I have solved **95   /   810** problems
+I have solved **96   /   815** problems
 while there are **139** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -199,7 +199,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||Medium|
 |202|[happy-number](https://leetcode.com/problems/happy-number)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/202-happy-number/happy-number.java)||Easy|
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/203-remove-linked-list-elements/remove-linked-list-elements.java)||Easy|
-|204|[count-primes](https://leetcode.com/problems/count-primes)|||Easy|
+|204|[count-primes](https://leetcode.com/problems/count-primes)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/204-count-primes/count-primes.java)||Easy|
 |205|[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/205-isomorphic-strings/isomorphic-strings.java)||Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)||[:memo:](https://leetcode.com/articles/reverse-linked-list/)|Easy|
 |207|[course-schedule](https://leetcode.com/problems/course-schedule)|||Medium|
@@ -782,8 +782,8 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |856|[consecutive-numbers-sum](https://leetcode.com/problems/consecutive-numbers-sum)||[:memo:](https://leetcode.com/articles/consecutive-numbers-sum/)|Medium|
 |857|[positions-of-large-groups](https://leetcode.com/problems/positions-of-large-groups)||[:memo:](https://leetcode.com/articles/positions-of-large-groups/)|Easy|
 |858|[masking-personal-information](https://leetcode.com/problems/masking-personal-information)||[:memo:](https://leetcode.com/articles/masking-personal-information/)|Medium|
-|859|[design-circular-deque](https://leetcode.com/problems/design-circular-deque)|||Easy|
-|860|[design-circular-queue](https://leetcode.com/problems/design-circular-queue)|||Easy|
+|859|[design-circular-deque](https://leetcode.com/problems/design-circular-deque)|||Medium|
+|860|[design-circular-queue](https://leetcode.com/problems/design-circular-queue)|||Medium|
 |861|[flipping-an-image](https://leetcode.com/problems/flipping-an-image)||[:memo:](https://leetcode.com/articles/flipping-an-image/)|Easy|
 |862|[find-and-replace-in-string](https://leetcode.com/problems/find-and-replace-in-string)||[:memo:](https://leetcode.com/articles/find-and-replace-in-string/)|Medium|
 |863|[sum-of-distances-in-tree](https://leetcode.com/problems/sum-of-distances-in-tree)||[:memo:](https://leetcode.com/articles/sum-of-distances-in-tree/)|Hard|
@@ -822,3 +822,8 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |896|[smallest-subtree-with-all-the-deepest-nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes)||[:memo:](https://leetcode.com/articles/smallest-subtree-with-all-the-deepest-nodes/)|Medium|
 |897|[prime-palindrome](https://leetcode.com/problems/prime-palindrome)||[:memo:](https://leetcode.com/articles/prime-palindrome/)|Medium|
 |898|[transpose-matrix](https://leetcode.com/problems/transpose-matrix)||[:memo:](https://leetcode.com/articles/transpose-matrix/)|Easy|
+|899|[binary-gap](https://leetcode.com/problems/binary-gap)||[:memo:](https://leetcode.com/articles/binary-gap/)|Easy|
+|900|[reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2)||[:memo:](https://leetcode.com/articles/reordered-power-of-2/)|Medium|
+|901|[advantage-shuffle](https://leetcode.com/problems/advantage-shuffle)||[:memo:](https://leetcode.com/articles/advantage-shuffle/)|Medium|
+|902|[minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)||[:memo:](https://leetcode.com/articles/minimum-number-of-refueling-stops/)|Hard|
+|903|[implement-rand10-using-rand7](https://leetcode.com/problems/implement-rand10-using-rand7)|||Medium|
