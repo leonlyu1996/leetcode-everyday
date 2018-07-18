@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-07-18 20:11:49
+Update time:  2018-07-18 20:24:13
 
-I have solved **98   /   815** problems
+I have solved **99   /   815** problems
 while there are **139** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -226,7 +226,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |228|[summary-ranges](https://leetcode.com/problems/summary-ranges)||[:memo:](https://leetcode.com/articles/summary-ranges/)|Medium|
 |229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|||Medium|
 |230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|||Medium|
-|231|[power-of-two](https://leetcode.com/problems/power-of-two)|||Easy|
+|231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/231-power-of-two/power-of-two.java)||Easy|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/232-implement-queue-using-stacks/implement-queue-using-stacks.java)|[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
 |233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one)||[:memo:](https://leetcode.com/articles/number-of-digit-one/)|Hard|
 |234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)|||Easy|
