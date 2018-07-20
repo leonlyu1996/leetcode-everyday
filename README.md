@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-07-18 20:24:13
+Update time:  2018-07-20 20:15:55
 
-I have solved **99   /   815** problems
+I have solved **100   /   815** problems
 while there are **139** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -229,7 +229,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/231-power-of-two/power-of-two.java)||Easy|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/232-implement-queue-using-stacks/implement-queue-using-stacks.java)|[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
 |233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one)||[:memo:](https://leetcode.com/articles/number-of-digit-one/)|Hard|
-|234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)|||Easy|
+|234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/234-palindrome-linked-list/palindrome-linked-list.java)||Easy|
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|||Easy|
 |236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|||Medium|
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)||[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
@@ -826,4 +826,4 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |900|[reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2)||[:memo:](https://leetcode.com/articles/reordered-power-of-2/)|Medium|
 |901|[advantage-shuffle](https://leetcode.com/problems/advantage-shuffle)||[:memo:](https://leetcode.com/articles/advantage-shuffle/)|Medium|
 |902|[minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)||[:memo:](https://leetcode.com/articles/minimum-number-of-refueling-stops/)|Hard|
-|903|[implement-rand10-using-rand7](https://leetcode.com/problems/implement-rand10-using-rand7)|||Medium|
+|903|[implement-rand10-using-rand7](https://leetcode.com/problems/implement-rand10-using-rand7)||[:memo:](https://leetcode.com/articles/implement-rand10-using-rand7/)|Medium|
