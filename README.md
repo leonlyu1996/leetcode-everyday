@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-07-20 20:15:55
+Update time:  2018-07-23 20:29:24
 
-I have solved **100   /   815** problems
+I have solved **101   /   819** problems
 while there are **139** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -28,7 +28,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/014-longest-common-prefix/longest-common-prefix.java)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/015-3sum/3sum.java)||Medium|
 |16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
-|17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|||Medium|
+|17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/017-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java)||Medium|
 |18|[4sum](https://leetcode.com/problems/4sum)|||Medium|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)||[:memo:](https://leetcode.com/articles/remove-nth-node-from-end-of-list/)|Medium|
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/020-valid-parentheses/valid-parentheses.java)||Easy|
@@ -827,3 +827,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |901|[advantage-shuffle](https://leetcode.com/problems/advantage-shuffle)||[:memo:](https://leetcode.com/articles/advantage-shuffle/)|Medium|
 |902|[minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)||[:memo:](https://leetcode.com/articles/minimum-number-of-refueling-stops/)|Hard|
 |903|[implement-rand10-using-rand7](https://leetcode.com/problems/implement-rand10-using-rand7)||[:memo:](https://leetcode.com/articles/implement-rand10-using-rand7/)|Medium|
+|904|[leaf-similar-trees](https://leetcode.com/problems/leaf-similar-trees)||[:memo:](https://leetcode.com/articles/leaf-similar-trees/)|Easy|
+|905|[length-of-longest-fibonacci-subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence)||[:memo:](https://leetcode.com/articles/length-of-longest-fibonacci-subsequence/)|Medium|
+|906|[walking-robot-simulation](https://leetcode.com/problems/walking-robot-simulation)||[:memo:](https://leetcode.com/articles/walking-robot-simulation/)|Easy|
+|907|[koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas)||[:memo:](https://leetcode.com/articles/koko-eating-bananas/)|Medium|
