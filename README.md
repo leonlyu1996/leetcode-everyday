@@ -1,7 +1,7 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-07-23 20:29:24
+Update time:  2018-07-24 21:09:24
 
-I have solved **101   /   819** problems
+I have solved **102   /   819** problems
 while there are **139** problems still locked.
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode).
@@ -27,7 +27,7 @@ If you want to use this tool please follow this [Usage Guide](https://github.com
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/013-roman-to-integer/roman-to-integer.java)||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/014-longest-common-prefix/longest-common-prefix.java)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/015-3sum/3sum.java)||Medium|
-|16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
+|16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/016-3sum-closest/3sum-closest.java)||Medium|
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Java](https://github.com/zmkoo000/leetcode-everyday/blob/master/017-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java)||Medium|
 |18|[4sum](https://leetcode.com/problems/4sum)|||Medium|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)||[:memo:](https://leetcode.com/articles/remove-nth-node-from-end-of-list/)|Medium|
